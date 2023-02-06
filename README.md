@@ -1,4 +1,4 @@
-# Projest Ideas List
+# Project Ideas List
 
 1. Try get an [Open EIT](https://www.opensourceimaging.org/project/open-eit-electrical-impedance-tomography/) kit and see if I can increase its resolution by sourcing and sinking current from sensors to build a 3D map of the sensor locations.
 
